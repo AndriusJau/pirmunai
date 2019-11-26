@@ -31,13 +31,13 @@
 	  	<div class="row">
 	  	
 		  	<div class="col s12 m6 l3">
-		  		<img class="responsive-img" src="images/AndriusJ.jpg">
+		  		<img class="responsive-img circle" src="images/AndriusJ1.jpg">
 		  		<p class="center-align">Andrius Jauniškis</p>
 		  		<p>Andrius J. Jums padės, jei norite rasti vietų sužaisti pokerio partiją.</p>
 		  	</div>
 
 		  	<div class="col s12 m6 l3">
-		  		<img class="responsive-img circle" src="images/AndriusN.jpg">
+		  		<img class="responsive-img circle" src="images/AndriusN1.jpg">
 		  		<p class="center-align">Andrius Neironis</p>
 		  		<p>Andrius N. Jums padės, jei esate didelis ekskursijų fanas.</p>
 		  	</div>

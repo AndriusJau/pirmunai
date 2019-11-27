@@ -34,37 +34,37 @@
 		  	<div class="col s12 m6 l3">
 		  		<img class="responsive-img circle" src="images/AndriusJ1.jpg">
 		  		<p class="center-align">Andrius Jauniškis</p>
-		  		<p>Andrius J. Jums padės, jei norite rasti vietų sužaisti pokerio partiją.</p>
-		  		<a class="waves-effect waves-light btn"><i class="material-icons left">cloud</i>Contact AndriusJ</a>
+		  		<p class="center-align">Andrius J. Jums padės, jei norite rasti vietų sužaisti pokerio partiją.</p>
+		  		<a class="waves-effect waves-light btn"><i class="material-icons left">cloud</i>Follow AndriusJ</a>
 		  	</div>
 
 		  	<div class="col s12 m6 l3">
 		  		<img class="responsive-img circle" src="images/AndriusN1.jpg">
 		  		<p class="center-align">Andrius Neironis</p>
-		  		<p>Andrius N. Jums padės, jei esate didelis ekskursijų fanas.</p>
-		  		<a class="waves-effect waves-light btn"><i class="material-icons left">cloud</i>Contact AndriusN</a>
+		  		<p class="center-align">Andrius N. Jums padės, jei esate didelis ekskursijų fanas.</p>
+		  		<a class="waves-effect waves-light btn"><i class="material-icons left">cloud</i>Follow AndriusN</a>
 		  	</div>
 
 		  	<div class="col s12 m6 l3">
 		  		<img class="responsive-img circle" src="images/Jurgita.jpg">
 		  		<p class="center-align">Jurgita Gerdvilė</p>
-		  		<p>Jurgita jei norite sutaupyti laiko kelionei - Jurgita Jums padės rasti poilsį Trakų rajone. </p>
-		  		<a class="waves-effect waves-light btn"><i class="material-icons left">cloud</i>Contact Jurgita</a>
+		  		<p class="center-align">Jurgita jei norite sutaupyti laiko kelionei - Jurgita Jums padės rasti poilsį Trakų rajone. </p>
+		  		<a class="waves-effect waves-light btn"><i class="material-icons left">cloud</i>Follow Jurgita</a>
 		  	</div>
 
 		  	<div class="col s12 m6 l3">
 		  		<img class="responsive-img circle" src="images/Ligita.jpg">
 		  		<p class="center-align">Ligita Poškaitė-Balkauskė</p>
-		  		<p>Ligita Jums padės, jei į poilsio paketą norite įtraukti ir apsilankymą tos šalies valstybės institucijose.</p>
-		  		<a class="waves-effect waves-light btn"><i class="material-icons left">cloud</i>Contact Ligita</a>
+		  		<p class="center-align">Ligita Jums padės, jei į poilsio paketą norite įtraukti ir apsilankymą tos šalies valstybės institucijose.</p>
+		  		<a class="waves-effect waves-light btn"><i class="material-icons left">cloud</i>Follow Ligita</a>
 		  	</div>
 
 		</div>
+
+		<img class="fiksuotas left" src="images/Cookies.jpg">
 	
 </div>
 
-
-	
 
 
 <?php include "footer.php"; ?>

@@ -11,7 +11,7 @@
 	<?php include "header.php"; ?>
 
 
-	<head>TOP PASIULYMAI!</head>
+	<h1>TOP PASIŪLYMAI!</h1>
 
 	<h3>Tailandas</h3>
 	

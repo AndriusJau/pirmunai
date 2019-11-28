@@ -44,7 +44,7 @@
 					</div>
 
 
-					<div class="col s12 m6  zmogus">
+					<div class="col s12 m6 l3 zmogus">
 						<div>
 						<img class="responsive-img circle" src="images/AndriusN1.jpg">
 						<div class="boldas"> 

@@ -1,7 +1,9 @@
 $(document).ready(function(){
-	
-    $('.sidenav').sidenav();
-});
+
+$('.sidenav').sidenav();
+    $('.collapsible').collapsible();
+  });
+  
 
  $(document).ready(function(){
  $('.carousel').carousel();

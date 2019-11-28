@@ -96,15 +96,15 @@
 
 						<div class="row">
 							<div class="col s12 m6 l6">
-<p style="text-align: center;"><strong>Atvykite pas mus:</strong></p>
+								<p style="text-align: center;"><strong>Atvykite pas mus:</strong></p>
 								<iframe class="zemelapis" 
 								src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2308.2563260413413!2d24.931442815857586!3d54.65231238027346!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46ddf36c24788be3%3A0xc42354dd68ba6032!2sTrak%C5%B3%20salos%20pilis!5e0!3m2!1slt!2slt!4v1574875506772!5m2!1slt!2slt" height="350" frameborder="0" style="border:1;" allowfullscreen=""></iframe>
 							</div>
 
 
-						<div class="zinute">
+							<div class="zinute">
 								<div class="col s12 m6 l6">
-<p style="text-align: center;"><strong>Parašykite mums:</strong></p>
+									<p style="text-align: center;"><strong>Parašykite mums:</strong></p>
 									<form action="kur siuncia duomenis " class="left-align">
 										Vardas:<br><input type="text" name="Vardas" ><br>
 
@@ -119,6 +119,41 @@
 									</div>
 								</div>
 							</div>
+
+							<div>
+								<ul class="collapsible">
+									<li>
+										<div class="collapsible-header"><i class="material-icons">euro_symbol</i>Swedbank</div>
+										<div class="collapsible-body"><span>
+											UAB „TravelDeals LT“ <br>
+											Ukmergės g. 124,<br> Vilnius, Lietuva <br>
+											Įmonės kodas 302583106 <br>
+											PVM kodas LT100005943011 <br>
+											AB Swedbank <br>
+										A/s LT91 7300 0101 2605 7581, <br> banko kodas: 73000</span></div>
+									</li>
+									<li>
+										<div class="collapsible-header"><i class="material-icons">attach_money</i>SEB Bankas</div>
+										<div class="collapsible-body"><span>
+											UAB „TravelDeals LT“ <br>
+											Ukmergės g. 124, <br> Vilnius, Lietuva <br>
+											Įmonės kodas 302583106 <br>
+											PVM kodas LT100005943011 <br>
+											AB SEB Bankas <br>
+										A/s LT81 7044 0600 0768 5793, <br> banko kodas: 70440</span></div>
+									</li>
+									<li>
+										<div class="collapsible-header"><i class="material-icons">credit_card</i>PayPal</div>
+										<div class="collapsible-body"><span>UAB „TravelDeals LT“ <br>
+											Pasirinkę šį mokėjimo būdą, turėsite suvesti savo duomenis, bei kitus prašomus duomenis. <br>
+											UAB „TravelDeals LT“ <br>
+											Ukmergės g. 124,<br> Vilnius, Lietuva <br>
+											Įmonės kodas 302583106 <br>
+											PVM kodas LT100005943011 <br>
+										</span></div>
+									</li>
+								</ul>	
+							</div>						
 						</div>
 						<?php include "footer.php"; ?>
 

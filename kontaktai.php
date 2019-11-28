@@ -30,7 +30,7 @@
 		</p>
 		<p style="text-align: center;"><strong>Sekite mus socialiniuose tinkluose:</strong>
 		</p>
-		<p style="text-align: center;"><strong><a href="https://www.facebook.com/Vilnius-Coding-School-1647617695520015/?ref=aymt_homepage_panel"><img class="alignnone size-full wp-image-39" src="https://vilniuscoding.lt/wp-content/uploads/2017/08/icon-fb.png" alt="" width="31" height="31"></a>&nbsp;<a href="https://www.linkedin.com/company/10338343/"><img class="alignnone size-medium wp-image-41" src="https://vilniuscoding.lt/wp-content/uploads/2017/08/icon-in.png" alt="" width="31" height="31"></a> <a href="https://www.instagram.com/vilniuscodingschool/" target="_blank" rel="false noopener"><img class="alignnone wp-image-42 " src="https://vilniuscoding.lt/wp-content/uploads/2017/08/icon-insta.png" alt="" width="31" height="31"></a>&nbsp;<a href="https://www.meetup.com/Code-Coffee-Meetup-by-Vilnius-Coding-School/" target="_blank" rel="false noopener"><img class="alignnone  wp-image-6095" src="https://www.vilniuscoding.lt/wp-content/uploads/2019/05/meetup-png-300x300.png" alt="" width="31" height="31" srcset="https://www.vilniuscoding.lt/wp-content/uploads/2019/05/meetup-png-300x300.png 300w, https://www.vilniuscoding.lt/wp-content/uploads/2019/05/meetup-png-50x50.png 50w, https://www.vilniuscoding.lt/wp-content/uploads/2019/05/meetup-png-150x150.png 150w, https://www.vilniuscoding.lt/wp-content/uploads/2019/05/meetup-png-450x450.png 450w, https://www.vilniuscoding.lt/wp-content/uploads/2019/05/meetup-png.png 512w" sizes="(max-width: 31px) 100vw, 31px"></a></strong></p> <br>
+		<p style="text-align: center;"><strong><a target="blank" href="https://www.facebook.com/Vilnius-Coding-School-1647617695520015/?ref=aymt_homepage_panel"><img class="alignnone size-full wp-image-39" src="https://vilniuscoding.lt/wp-content/uploads/2017/08/icon-fb.png" alt="" width="31" height="31"></a>&nbsp;<a target="blank" href="https://www.linkedin.com/company/10338343/"><img class="alignnone size-medium wp-image-41" src="https://vilniuscoding.lt/wp-content/uploads/2017/08/icon-in.png" alt="" width="31" height="31"></a> <a target="blank" href="https://www.instagram.com/vilniuscodingschool/" target="_blank" rel="false noopener"><img class="alignnone wp-image-42 " src="https://vilniuscoding.lt/wp-content/uploads/2017/08/icon-insta.png" alt="" width="31" height="31"></a>&nbsp;<a target="blank" href="https://www.meetup.com/Code-Coffee-Meetup-by-Vilnius-Coding-School/" target="_blank" rel="false noopener"><img class="alignnone  wp-image-6095" src="https://www.vilniuscoding.lt/wp-content/uploads/2019/05/meetup-png-300x300.png" alt="" width="31" height="31" srcset="https://www.vilniuscoding.lt/wp-content/uploads/2019/05/meetup-png-300x300.png 300w, https://www.vilniuscoding.lt/wp-content/uploads/2019/05/meetup-png-50x50.png 50w, https://www.vilniuscoding.lt/wp-content/uploads/2019/05/meetup-png-150x150.png 150w, https://www.vilniuscoding.lt/wp-content/uploads/2019/05/meetup-png-450x450.png 450w, https://www.vilniuscoding.lt/wp-content/uploads/2019/05/meetup-png.png 512w" sizes="(max-width: 31px) 100vw, 31px"></a></strong></p> <br>
 
 		
 
@@ -49,7 +49,7 @@
 					<i class="material-icons prefix">email</i>
 					<a href="mailto:info@ptravel.lt">Jauniskis@ptravel.lt</a><br>
 				</p>
-				<a class="waves-effect waves-light btn">
+				<a class="waves-effect waves-light btn" target="blank" href="https://lt-lt.facebook.com/">
 					<i class="material-icons left">person</i>Contact</a>
 				</div>
 
@@ -62,7 +62,7 @@
 						<i class="material-icons prefix">email</i>
 						<a href="mailto:info@ptravel.lt">Neironis@ptravel.lt </a><br>
 					</p>
-					<a class="waves-effect waves-light btn">
+					<a class="waves-effect waves-light btn" target="blank" href="https://lt-lt.facebook.com/">
 						<i class="material-icons left">person</i>Contact</a>
 					</div>
 
@@ -75,7 +75,7 @@
 							<i class="material-icons prefix">email</i>
 							<a href="mailto:info@ptravel.lt">Gerdvile@ptravel.lt</a><br>  
 						</p>
-						<a class="waves-effect waves-light btn">
+						<a class="waves-effect waves-light btn" target="blank" href="https://lt-lt.facebook.com/">
 							<i class="material-icons left">person</i>Contact</a>
 						</div>
 
@@ -88,7 +88,7 @@
 								<i class="material-icons prefix">email</i> 
 								<a href="mailto:info@ptravel.lt">Poskaite@ptravel.lt </a><br>
 							</p>
-							<a class="waves-effect waves-light btn">
+							<a class="waves-effect waves-light btn" target="blank" href="https://lt-lt.facebook.com/">
 								<i class="material-icons left">person</i>Contact</a><br>
 							</div><br>
 

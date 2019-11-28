@@ -30,42 +30,57 @@
 	</p>
 
 	  	<div class="row">
-	  	
+
+	  		
 		  	<div class="col s12 m6 l3">
+		  		<div class="staciakampis"> 
 		  		<img class="responsive-img circle" src="images/AndriusJ1.jpg">
-		  		<p class="center-align">Andrius Jauniškis</p>
-		  		<p class="center-align">Andrius J. Jums padės, jei norite rasti vietų sužaisti pokerio partiją.</p>
-		  		<a class="waves-effect waves-light btn"><i class="material-icons left">cloud</i>Follow AndriusJ</a>
+		  		<div class="boldas"> 
+		  		<p class="center-align">Andrius Jauniškis</p> </div>
+		  		<p class="center-align">Andrius J. Jums padės, jei norite rasti vietų sužaisti pokerio partiją.</p> </div>
+		  		<div class="mygtukas">
+		  		<a class="waves-effect waves-light btn"><i class="material-icons left">cloud</i>Follow AndriusJ</a> </div>
 		  	</div>
 
+		  	
 		  	<div class="col s12 m6 l3">
+		  		<div class="staciakampis">
 		  		<img class="responsive-img circle" src="images/AndriusN1.jpg">
-		  		<div class="vardai"> 
+		  		<div class="boldas"> 
 		  		<p class="center-align">Andrius Neironis</p> </div>
-		  		<p class="center-align">Andrius N. Jums padės, jei esate didelis ekskursijų fanas.</p>
-		  		<a class="waves-effect waves-light btn"><i class="material-icons left">cloud</i>Follow AndriusN</a>
+		  		<p class="center-align">Andrius N. Jums padės, jei esate didelis ekskursijų fanas.</p> </div>
+		  		<div class="mygtukas">
+		  		<a class="waves-effect waves-light btn"><i class="material-icons left">cloud</i>Follow AndriusN</a> </div>
 		  	</div>
 
+		  	
 		  	<div class="col s12 m6 l3">
+		  		<div class="staciakampis">
 		  		<img class="responsive-img circle" src="images/Jurgita.jpg">
-		  		<p class="center-align">Jurgita Gerdvilė</p>
-		  		<p class="center-align">Jurgita jei norite sutaupyti laiko kelionei - Jurgita Jums padės rasti poilsį Trakų rajone. </p>
-		  		<a class="waves-effect waves-light btn"><i class="material-icons left">cloud</i>Follow Jurgita</a>
+		  		<div class="boldas">
+		  		<p class="center-align">Jurgita Gerdvilė</p> </div>
+		  		<p class="center-align">Jurgita jei norite sutaupyti laiko kelionei - Jurgita Jums padės rasti poilsį Trakų rajone. </p> </div>
+		  		<div class="mygtukas">
+		  		<a class="waves-effect waves-light btn"><i class="material-icons left">cloud</i>Follow Jurgita</a> </div>
 		  	</div>
 
+		  	
 		  	<div class="col s12 m6 l3">
+		  		<div class="staciakampis">
 		  		<img class="responsive-img circle" src="images/Ligita.jpg">
-		  		<p class="center-align">Ligita Poškaitė-Balkauskė</p>
-		  		<p class="center-align">Ligita Jums padės, jei į poilsio paketą norite įtraukti ir apsilankymą tos šalies valstybės institucijose.</p>
-		  		<a class="waves-effect waves-light btn"><i class="material-icons left">cloud</i>Follow Ligita</a>
+		  		<div class="boldas"> 
+		  		<p class="center-align">Ligita Poškaitė-Balkauskė</p> </div>
+		  		<p class="center-align">Ligita Jums padės, jei į poilsio paketą norite įtraukti ir apsilankymą tos šalies valstybės institucijose.</p> </div>
+		  		<div class="mygtukas">
+		  		<a class="waves-effect waves-light btn"><i class="material-icons left">cloud</i>Follow Ligita</a> </div>
 		  	</div>
 
-
-		</div>
-
-		<img class="fiksuotas left" src="images/Cookies.jpg">
+		</div>		
 	
 </div>
+
+ <a target="_blank" href="https://google.com">
+<img class="fiksuotas" src="images/Cookies.png">
 
 
 

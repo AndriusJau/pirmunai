@@ -153,15 +153,14 @@ Judėjimas už nepriklausomybę prasidėjo 1810 m. Ispanijos sostą užėmus Nap
 <br>
 <br>
 
-<div style="color: red; font-size: 20">
+<div style="color: red;"style="height: 200px;">
 
 <marquee behavior="scroll" direction="left">Esate kulinarijos ekspertas? - Šie pasiūlymai būtent JUMS!</marquee>
 
 
-</div>
+</div> 
 
-<div style=" margin-right:10px; margin-left:90px;">
-
+<center>
 
 
 
@@ -177,15 +176,12 @@ Judėjimas už nepriklausomybę prasidėjo 1810 m. Ispanijos sostą užėmus Nap
 
 <object width="425" height="350" data="https://www.youtube.com/v/yvOXI_ecPPU" type="application/x-shockwave-flash"><param name="src" value="https://www.youtube.com/v/yvOXI_ecPPU" /></object>
 
+</center>
 
 
 </div>
 
-
-
-
   
-
 	<?php include "footer.php"; ?>
 	
 </body>

@@ -171,8 +171,6 @@ Judėjimas už nepriklausomybę prasidėjo 1810 m. Ispanijos sostą užėmus Nap
 <object width="425" height="350" data="https://www.youtube.com/v/cUJZ79XyFgw" type="application/x-shockwave-flash"><param name="src" value="https://www.youtube.com/v/cUJZ79XyFgw" /></object>
 
 
-<object width="425" height="350" data="https://www.youtube.com/v/EPggj6MZNm8" type="application/x-shockwave-flash"><param name="src" value="https://www.youtube.com/v/EPggj6MZNm8" /></object>
-
 
 <object width="425" height="350" data="https://www.youtube.com/v/yvOXI_ecPPU" type="application/x-shockwave-flash"><param name="src" value="https://www.youtube.com/v/yvOXI_ecPPU" /></object>
 

@@ -11,7 +11,7 @@
 	<?php include "header.php"; ?>
 	
 
-	<h3 class="tekstas">Pavargote nuo programavimo?</h3>
+	<h3 class="tekstas">Programavimas ir atostogos-suderinama?</h3>
 	<h3 class="tekstas">Mes Jums padėsime!</h3>
 	<!-- <?php echo basename($_SERVER['PHP_SELF']); ?> -->
 
@@ -26,7 +26,7 @@
 	<div class="gydunas">
 		<div class="row">    	
 			<div class="col s12 m4 l2"><i class="large material-icons">arrow_upward</i></div>			
-			<div class="col s12 m4 l8 blue"><h4>Įsigyjus šį pasiūlymą specialus gydūno Rimanto masažas dovanų!</h4></div>			
+			<div class="col s12 m4 l8 blue"><h4>Įsigijus šį pasiūlymą specialus gydūno Rimanto masažas dovanų!</h4></div>			
 			<div class="col s12 m4 l2"><i class="large material-icons">arrow_upward</i></div>
 		</div>
 	</div>  	

@@ -60,3 +60,34 @@ width: 100%;
 	text-align: right;
 }
 
+
+.boldas{
+	font-weight: bold;
+}
+
+.staciakampis{
+	display: flex;
+}
+
+.mygtukas{
+	display: flex;
+	justify-content: space-between;
+	flex-direction: column;
+}
+
+.fiksuotas{
+	position: fixed;
+	bottom: 0;
+	left: 0;	
+}
+
+.zmogus{
+	display:flex;
+	justify-content: space-between;
+	flex-direction: column;
+}
+
+.zmones{
+	display: flex;
+}
+

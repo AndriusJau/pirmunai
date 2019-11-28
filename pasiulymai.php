@@ -10,7 +10,7 @@
 
 	<?php include "header.php"; ?>
 
-
+<div class="container">
 	<h3>IŠSIKODUOK AZIJOJE!</h3> 
 	
 
@@ -181,6 +181,6 @@ Judėjimas už nepriklausomybę prasidėjo 1810 m. Ispanijos sostą užėmus Nap
 
   
 	<?php include "footer.php"; ?>
-	
+	</div>
 </body>
 </html>

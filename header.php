@@ -12,6 +12,8 @@
   </nav>
 
   <nav>
+    <div class="container">
+
     <div class="nav-wrapper">
       <div class="col s12">
         <a href="index.php" class="breadcrumb">Pagrindinis</a>
@@ -19,6 +21,7 @@
         <a href="kontaktai.php" class="breadcrumb">Kontaktai</a>
         <a href="pasiulymai.php" class="breadcrumb">Visi pasiūlymai</a>
       </div>
+    </div>
     </div>
   </nav>
 

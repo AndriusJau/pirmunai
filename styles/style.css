@@ -27,10 +27,16 @@ text-align: center;
 border-width:5px;  
 border-style:dashed;
 }
-
 h6 {
 	font-weight: bold;
 	font-style: italic;
 	text-align: center;	
+}
+.zemelapis{
+width: 100%;
+}
+
+.zinute{
+	text-align: right;
 }
 

@@ -11,7 +11,13 @@
 	<?php include "header.php"; ?>
 
 
-	<h1>TOP PASIŪLYMAI!</h1>
+	<h3>IŠSIKODUOK AZIJOJE!</h3> 
+	
+
+
+	<br>
+
+
 
 	<h2>Tailandas</h2>
 	
@@ -35,6 +41,10 @@ Nors ir ne tokie įspūdingi kaip Indonezijos ar Malaizijos, Tailando tropiniai 
 Ao Phang-Nga nacionalinis jūros parkas
 
 Andamanų jūros pakrantė nusėta žaliuojančių skardžių, keistų uolų darinių bei žvejų kaimų. Krantus skalauja skaidri žydra jūra, o nuo žemyno krantų matosi išsibarsčiusios salos, žadančios rojų. Esant čia galite išsinuomoti kanoją, baidarę ar privatų laivą ir apžiūrėti jūroje esančias salas, pasinerti į nepakartojamą povandeninį pasaulį. Taip pat organizuojamos ekskursijos ir turai, kurias nusipirkti galite daugelyje turistinių centrų.
+
+<br>
+<br>
+<br>
 
 <a href="https://skrendu.lt/?gclid=Cj0KCQiAt_PuBRDcARIsAMNlBdqmaa7f43a8Qc245aJtTLkOQ6awW9joHp3e85FjEW6iDQiND6u7hpAaAn7jEALw_wcB" target="_blank">
 	<button>Pirkti bilieta!</button>
@@ -64,11 +74,83 @@ Gamtines vertybės
 Nors ir ne tokie įspūdingi kaip Indonezijos ar Malaizijos, Tailando tropiniai miškai taip pat verti dėmesio. Čia įsteigtas ne vienas nacionalinis parkas – Khao Yaibei Khao Soknacionaliniai parkai. Čia galėsite pamatyti makakas, gibonus, įvairių rūšių egzotinius paukščius, taip pat elnius, pražygiuoti džiunglių takais, netgi praleisti jose naktį. Kriokliai stūkso visoje šalyje, kaip ir daugybė kitų gamtos stebuklų, tropinių augalų bei gyvūnų, uolų ir skardžių, kalnų bei kitų gamtinių grožybių.
 .</p>
 
+
+<br>
+
 <a href="https://skrendu.lt/?gclid=Cj0KCQiAt_PuBRDcARIsAMNlBdqmaa7f43a8Qc245aJtTLkOQ6awW9joHp3e85FjEW6iDQiND6u7hpAaAn7jEALw_wcB" target="_blank">
 	<button>Pirkti bilieta!</button>
 
 
 </a>
+
+
+
+<h2>Brazilija</h2>
+	
+
+
+	<img src="http://aroundtravels.com/wp-content/uploads/2016/03/worldtourism-1041.jpg" max width=30% max height=30%
+	alt="Brazil" title= "Bambambirbir" style = "float: left; margin-right: 10px; margin-bottom: 5px; border: solid black 1px; padding: 2px" />
+
+	<p>
+
+Brazilija - didžiausia Lotynų Amerikos valstybė. Brazilija – tai ne tik futbolo komanda, spalvingasis karnavalas, aromatinga kava bei Copacabana paplūdimys. Balto smėlio paplūdimiai sudaro ilgiausią pasaulyje pakrantę, o daugiau kaip 170 mljn. brazilų pasiruošę draugiškai jus sutikti, parodyti savo nuostabią šalį bei kartu, nors ir trumpam, džiaugtis ir mėgautis visais gyvenimo teikiamais malonumais. Jūsų laukia nuostabus, dieną naktį pulsuojantis Rio, kalnų kurortas Petropolis, neištirtos Amazonės džiunglės, vienas didžiausių gamtos stebuklų planetoje – Iguassu kriokliai, seniausias šalies miestas - Salvador da Bahia ir dar daug kitų, akiai malonių vietų.
+Andamanų jūros pakrantė nusėta žaliuojančių skardžių, keistų uolų darinių bei žvejų kaimų. Krantus skalauja skaidri žydra jūra, o nuo žemyno krantų matosi išsibarsčiusios salos, žadančios rojų. Esant čia galite išsinuomoti kanoją, baidarę ar privatų laivą ir apžiūrėti jūroje esančias salas, pasinerti į nepakartojamą povandeninį pasaulį. Taip pat organizuojamos ekskursijos ir turai, kurias nusipirkti galite daugelyje turistinių centrų.
+
+Brazilija - didžiausia Lotynų Amerikos valstybė. Brazilija – tai ne tik futbolo komanda, spalvingasis karnavalas, aromatinga kava bei Copacabana paplūdimys. Balto smėlio paplūdimiai sudaro ilgiausią pasaulyje pakrantę, o daugiau kaip 170 mljn. brazilų pasiruošę draugiškai jus sutikti, parodyti savo nuostabią šalį bei kartu, nors ir trumpam, džiaugtis ir mėgautis visais gyvenimo teikiamais malonumais. Jūsų laukia nuostabus, dieną naktį pulsuojantis Rio, kalnų kurortas Petropolis, neištirtos Amazonės džiunglės, vienas didžiausių gamtos stebuklų planetoje – Iguassu kriokliai, seniausias šalies miestas - Salvador da Bahia ir dar daug kitų, akiai malonių vietų.</p>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<a href="https://skrendu.lt/?gclid=Cj0KCQiAt_PuBRDcARIsAMNlBdqmaa7f43a8Qc245aJtTLkOQ6awW9joHp3e85FjEW6iDQiND6u7hpAaAn7jEALw_wcB" target="_blank">
+	<button>Pirkti bilieta!</button>
+
+</a>
+
+
+
+<br>
+<br>
+<br>
+
+<h2>Čilė</h2>
+	
+
+
+	<img src="http://www.thetimes.co.uk/imageserver/image/methode%2Fsundaytimes%2Fprod%2Fweb%2Fbin%2Fb11a11f0-b740-11e8-b8ec-3485dab5a8cb.jpg?crop=2667%2C1500%2C0%2C0&resize=685" max width=30% max height=30%
+	alt="Brazil" title= "Bambambirbir" style = "float: left; margin-right: 10px; margin-bottom: 5px; border: solid black 1px; padding: 2px" />
+
+	<p>
+
+Cilės teritorijos šiaurinės sritys buvo neatsiejama Senovės Peru civilizacijos dalis. Čia koncentravosi šios civilizacijos Pietinis ir Tolimųjų pietų regionai.
+
+XV a. šiuos regionus į savo imperiją įjungė inkai. Čilės teritorija įėjo į vieną keturių Imperijos provincijų – Koljasuju.
+
+1531 m. ispanai užkariavo inkų imperiją ir pradėjo žygius į pietus. Pirmieji šalyje pasirodę užkariautojai buvo Diegas de Almagras ir jo ispanų konkistadorai, kurie 1535 m. atvyko iš Peru ieškodami aukso, tačiau jiems įsitvirtinti nepavyko. Ispanams teko susidurti su šimtais tūkstančių indėnų, priklausančių įvairioms kultūroms. Šios kultūros daugiausia rėmėsi lydymine žemdirbyste ir medžiokle. Pirmąją nuolatinę europiečių gyvenvietę, Santjagą (Santiago de Nueva Extremadura), 1541 m. įkūrė Pedras de Valdivija, vienas iš Fransisko Pisaro karininkų. Nors ispanai nerado čia daug aukso ir sidabro, tačiau Čilės centrinio slėnio perspektyvos žemės ūkio plėtotei buvo svarbios ir Čilė tapo Peru vicekaralystės dalimi.
+
+Dabartinės Čilės užkariavimas vyko lėtai, europiečiams keletą kartų teko atsitraukti spaudžiant vietos gyventojams. Per didelį mapučių sukilimą 1553 m. žuvo Valdivija ir buvo sugriauta daug kolonijos gyvenviečių. 1598 m. ir 1655 m. vėl kilo dideli sukilimai.
+
+Judėjimas už nepriklausomybę prasidėjo 1810 m. Ispanijos sostą užėmus Napoleono broliui Žozefui. 1810 m. rugsėjo 18 d. šalyje susiformavo nuverstąjį monarchą remianti chunta. Chunta paskelbė Čilę autonomine respublika Ispanijos monarchijos sudėtyje. Išpopuliarėjo judėjimas už visišką nepriklausomybę. Ispanijos bandymas susigrąžinti pilną kontrolę sukėlė ilgas kovas. Karas tęsėsi iki 1817 m., kai Bernardas O'Higinsas, žymiausias Čilės patriotas ir Chosė de San Martinas, Argentinos nepriklausomybės kovų didvyris, persikėlė per Andus iš Argentinos ir sumušė rojalistus
+
+<br>
+<br>
+<br>
+<br>
+
+<a href="https://skrendu.lt/?gclid=Cj0KCQiAt_PuBRDcARIsAMNlBdqmaa7f43a8Qc245aJtTLkOQ6awW9joHp3e85FjEW6iDQiND6u7hpAaAn7jEALw_wcB" target="_blank">
+	<button>Pirkti bilieta!</button>
+
+
+</a>
+</p>
+
+<br>
+<br>
+
+
 
 
 <br>

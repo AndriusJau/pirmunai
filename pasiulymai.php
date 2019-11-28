@@ -98,7 +98,7 @@ Brazilija - didžiausia Lotynų Amerikos valstybė. Brazilija – tai ne tik fut
 Andamanų jūros pakrantė nusėta žaliuojančių skardžių, keistų uolų darinių bei žvejų kaimų. Krantus skalauja skaidri žydra jūra, o nuo žemyno krantų matosi išsibarsčiusios salos, žadančios rojų. Esant čia galite išsinuomoti kanoją, baidarę ar privatų laivą ir apžiūrėti jūroje esančias salas, pasinerti į nepakartojamą povandeninį pasaulį. Taip pat organizuojamos ekskursijos ir turai, kurias nusipirkti galite daugelyje turistinių centrų.
 
 Brazilija - didžiausia Lotynų Amerikos valstybė. Brazilija – tai ne tik futbolo komanda, spalvingasis karnavalas, aromatinga kava bei Copacabana paplūdimys. Balto smėlio paplūdimiai sudaro ilgiausią pasaulyje pakrantę, o daugiau kaip 170 mljn. brazilų pasiruošę draugiškai jus sutikti, parodyti savo nuostabią šalį bei kartu, nors ir trumpam, džiaugtis ir mėgautis visais gyvenimo teikiamais malonumais. Jūsų laukia nuostabus, dieną naktį pulsuojantis Rio, kalnų kurortas Petropolis, neištirtos Amazonės džiunglės, vienas didžiausių gamtos stebuklų planetoje – Iguassu kriokliai, seniausias šalies miestas - Salvador da Bahia ir dar daug kitų, akiai malonių vietų.</p>
-
+<br>
 <br>
 <br>
 <br>
@@ -139,6 +139,7 @@ Judėjimas už nepriklausomybę prasidėjo 1810 m. Ispanijos sostą užėmus Nap
 <br>
 <br>
 <br>
+<br>
 
 <a href="https://skrendu.lt/?gclid=Cj0KCQiAt_PuBRDcARIsAMNlBdqmaa7f43a8Qc245aJtTLkOQ6awW9joHp3e85FjEW6iDQiND6u7hpAaAn7jEALw_wcB" target="_blank">
 	<button>Pirkti bilieta!</button>
@@ -149,25 +150,41 @@ Judėjimas už nepriklausomybę prasidėjo 1810 m. Ispanijos sostą užėmus Nap
 
 <br>
 <br>
-
-
-
-
+<br>
 <br>
 
-<br>
-  <div class="row">
-    <div class="col s12 red"><p>s12</p></div>
-    <div class="col s12 m4 l2 blue"><p>s12 m4</p></div>
-    <div class="col s12 m4 l8 yellow" ><p>s12 m4</p></div>
-    <div class="col s12 m4 l2 pink"><p>s12 m4</p></div>
-  </div>
-  <div class="row">
-    <div class="col s12 m6 l3 violet"><p>s12 m6 l3</p></div>
-    <div class="col s12 m6 l3 green"><p>s12 m6 l3</p></div>
-    <div class="col s12 m6 l3 black"><p>s12 m6 l3</p></div>
-    <div class="col s12 m6 l3 gray"><p>s12 m6 l3</p></div>
-  </div>
+<div style="color: red; font-size: 20">
+
+<marquee behavior="scroll" direction="left">Esate kulinarijos ekspertas? - Šie pasiūlymai būtent JUMS!</marquee>
+
+
+</div>
+
+<div style=" margin-right:10px; margin-left:90px;">
+
+
+
+
+
+<object width="425" height="350" data="https://www.youtube.com/v/X6Oaruks5Lk" type="application/x-shockwave-flash"><param name="src" value="https://www.youtube.com/v/X6Oaruks5Lk" /></object>
+
+
+<object width="425" height="350" data="https://www.youtube.com/v/cUJZ79XyFgw" type="application/x-shockwave-flash"><param name="src" value="https://www.youtube.com/v/cUJZ79XyFgw" /></object>
+
+
+<object width="425" height="350" data="https://www.youtube.com/v/EPggj6MZNm8" type="application/x-shockwave-flash"><param name="src" value="https://www.youtube.com/v/EPggj6MZNm8" /></object>
+
+
+<object width="425" height="350" data="https://www.youtube.com/v/yvOXI_ecPPU" type="application/x-shockwave-flash"><param name="src" value="https://www.youtube.com/v/yvOXI_ecPPU" /></object>
+
+
+
+</div>
+
+
+
+
+  
 
 	<?php include "footer.php"; ?>
 	

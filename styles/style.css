@@ -15,12 +15,14 @@ width: 100%;
 
 .tekstas-foto {
   position: absolute;
-  top: 50px;
-  right: 500px;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
   width: 400px;
   height: 150px;
   border: 3px solid #800080;
   color: #800080;
+  background: rgba(255,255,255,0.75);
 }
 .tekstas-foto h4 {
 text-align: center;

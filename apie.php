@@ -40,7 +40,8 @@
 
 		  	<div class="col s12 m6 l3">
 		  		<img class="responsive-img circle" src="images/AndriusN1.jpg">
-		  		<p class="center-align">Andrius Neironis</p>
+		  		<div class="vardai"> 
+		  		<p class="center-align">Andrius Neironis</p> </div>
 		  		<p class="center-align">Andrius N. Jums padės, jei esate didelis ekskursijų fanas.</p>
 		  		<a class="waves-effect waves-light btn"><i class="material-icons left">cloud</i>Follow AndriusN</a>
 		  	</div>
@@ -58,6 +59,7 @@
 		  		<p class="center-align">Ligita Jums padės, jei į poilsio paketą norite įtraukti ir apsilankymą tos šalies valstybės institucijose.</p>
 		  		<a class="waves-effect waves-light btn"><i class="material-icons left">cloud</i>Follow Ligita</a>
 		  	</div>
+
 
 		</div>
 

@@ -121,12 +121,14 @@
 							</div>
 
 							<div>
+								<h4>Mokėjimo instrukcijos:</h4>
 								<ul class="collapsible">
 									<li>
 										<div class="collapsible-header"><i class="material-icons">euro_symbol</i>Swedbank</div>
 										<div class="collapsible-body"><span>
-											UAB „TravelDeals LT“ <br>
-											Ukmergės g. 124,<br> Vilnius, Lietuva <br>
+											"P.Programuotojai Travel"<br>
+											Adresas: Kęstučio g. 4, LT-21104 <br>
+			Trakai, Lietuva <br> 
 											Įmonės kodas 302583106 <br>
 											PVM kodas LT100005943011 <br>
 											AB Swedbank <br>
@@ -135,8 +137,9 @@
 									<li>
 										<div class="collapsible-header"><i class="material-icons">attach_money</i>SEB Bankas</div>
 										<div class="collapsible-body"><span>
-											UAB „TravelDeals LT“ <br>
-											Ukmergės g. 124, <br> Vilnius, Lietuva <br>
+											"P.Programuotojai Travel"<br>
+											Adresas: Kęstučio g. 4, LT-21104 <br>
+			Trakai, Lietuva <br> 
 											Įmonės kodas 302583106 <br>
 											PVM kodas LT100005943011 <br>
 											AB SEB Bankas <br>
@@ -144,10 +147,11 @@
 									</li>
 									<li>
 										<div class="collapsible-header"><i class="material-icons">credit_card</i>PayPal</div>
-										<div class="collapsible-body"><span>UAB „TravelDeals LT“ <br>
+										<div class="collapsible-body"><span>
 											Pasirinkę šį mokėjimo būdą, turėsite suvesti savo duomenis, bei kitus prašomus duomenis. <br>
-											UAB „TravelDeals LT“ <br>
-											Ukmergės g. 124,<br> Vilnius, Lietuva <br>
+											"P.Programuotojai Travel" <br>
+											Adresas: Kęstučio g. 4, LT-21104 <br>
+			Trakai, Lietuva <br> 
 											Įmonės kodas 302583106 <br>
 											PVM kodas LT100005943011 <br>
 										</span></div>

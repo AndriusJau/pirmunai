@@ -1,5 +1,11 @@
 .bodis { 
- background-color: #cccccc;  
+	background-color: #cccccc;  
+}
+.spalva{
+	background-color: #4682B4;
+}
+.spalva-nav{
+	background-color: #ee6e73;
 }
 .tekstas {
 	color: #2196f3;
@@ -10,31 +16,31 @@
 	position: relative;
 }
 .pav {
-width: 100%;
+	width: 100%;
 }
 
 .tekstas-foto {
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  width: 400px;
-  height: 150px;
-  border: 3px solid #800080;
-  color: #800080;
-  background: rgba(255,255,255,0.75);
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	width: 400px;
+	height: 150px;
+	border: 3px solid #800080;
+	color: #800080;
+	background: rgba(255,255,255,0.75);
 }
 .tekstas-foto h4 {
-text-align: center;
+	text-align: center;
 }
 .tekstas-foto p {
-text-align: center;
-font-size: larger;
+	text-align: center;
+	font-size: larger;
 }
 .gydunas {
-text-align: center;
-border-width:5px;  
-border-style:dashed;
+	text-align: center;
+	border-width:5px;  
+	border-style:dashed;
 }
 h6 {
 	font-weight: bold;
@@ -49,11 +55,11 @@ h6 {
 	text-align: center;	
 }
 .btn, .btn-large, .btn-small {    
-    background-color: #ee6e73;
+	background-color: #ee6e73;
 }
 
 .zemelapis{
-width: 100%;
+	width: 100%;
 }
 
 .zinute{
@@ -90,4 +96,6 @@ width: 100%;
 .zmones{
 	display: flex;
 }
-
+.page-footer{
+	background-color: #4682B4;
+}

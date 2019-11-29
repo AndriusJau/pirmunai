@@ -1,12 +1,12 @@
 $(document).ready(function(){
 
-$('.sidenav').sidenav();
-    $('.collapsible').collapsible();
-  });
-  
+	$('.sidenav').sidenav();
+	$('.collapsible').collapsible();
+});
 
- $(document).ready(function(){
- $('.carousel').carousel();
- });
 
- 
+$(document).ready(function(){
+	$('.carousel').carousel();
+});
+
+

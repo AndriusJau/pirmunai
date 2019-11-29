@@ -6,7 +6,7 @@
 	<?php include "head.php"; ?>
 
 </head>
-<body>
+<body class="bodis">
 	<?php include "header.php"; ?>
 
 	<div class="container">

@@ -82,6 +82,7 @@ h6 {
 }
 
 .fiksuotas{
+	z-index: 2;
 	position: fixed;
 	bottom: 0;
 	left: 0;	

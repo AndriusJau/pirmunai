@@ -101,9 +101,6 @@ Brazilija - didžiausia Lotynų Amerikos valstybė. Brazilija – tai ne tik fut
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
 
 <a href="https://skrendu.lt/?gclid=Cj0KCQiAt_PuBRDcARIsAMNlBdqmaa7f43a8Qc245aJtTLkOQ6awW9joHp3e85FjEW6iDQiND6u7hpAaAn7jEALw_wcB" target="_blank">
 	<button>Pirkti bilieta!</button>
@@ -135,8 +132,6 @@ Dabartinės Čilės užkariavimas vyko lėtai, europiečiams keletą kartų teko
 
 Judėjimas už nepriklausomybę prasidėjo 1810 m. Ispanijos sostą užėmus Napoleono broliui Žozefui. 1810 m. rugsėjo 18 d. šalyje susiformavo nuverstąjį monarchą remianti chunta. Chunta paskelbė Čilę autonomine respublika Ispanijos monarchijos sudėtyje. Išpopuliarėjo judėjimas už visišką nepriklausomybę. Ispanijos bandymas susigrąžinti pilną kontrolę sukėlė ilgas kovas. Karas tęsėsi iki 1817 m., kai Bernardas O'Higinsas, žymiausias Čilės patriotas ir Chosė de San Martinas, Argentinos nepriklausomybės kovų didvyris, persikėlė per Andus iš Argentinos ir sumušė rojalistus
 
-<br>
-<br>
 <br>
 <br>
 <br>
